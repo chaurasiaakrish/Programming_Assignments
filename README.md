@@ -8,7 +8,7 @@ The notebook includes:
 - Filtering specific digit classes
 - Reshaping image tensors into feature vectors
 - Understanding dataset dimensions
-- 
+
 ## Concepts Practiced
 - Understanding tensor shapes
 - Boolean indexing in NumPy
